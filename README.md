@@ -34,7 +34,7 @@ magu({}, [anchor({
   <div>Whether to display link icon (using <a href="https://octicons.github.com/icon/link/">octicon</a>)</div>
 - `selector`(default: `h1,h2,h3,h4,h5,h6`)
   <div>Specify the selector to process</div>
-- `anchorTemplate`(default: `<a class="md__anchor" href="#{text}">{icon} {text}</a>`)
+- `anchorTemplate`(default: `<a class="md__anchor" href="#{text}">{icon}{text}</a>`)
   <div>Specify template of a tag</div>
   this is using [sindresorhus/pupa](https://github.com/sindresorhus/pupa), and it's using like `pupa(options.anchorTemplate, {text, icon})`
 - `iconOptions`(defualt: `iconOptions: {class: 'md__anchor-icon md__anchor--level-{level}'}`)
