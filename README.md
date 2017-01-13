@@ -73,11 +73,11 @@ result like this
 <svg xmlns="http://www.w3.org/2000/svg">
   <symbol id="link"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"/></symbol>
 </svg>
-<h1 id="a"><a class="md__anchor" href="#a"><svg version="1.1" width="16" height="16" viewbox="0 0 16 16" class="octicon octicon-link md__anchor-icon md__anchor--level-1" aria-hidden="true"><use xlink:href="#link"/></svg> a</a></h1>
-<h2 id="i"><a class="md__anchor" href="#i"><svg version="1.1" width="16" height="16" viewbox="0 0 16 16" class="octicon octicon-link md__anchor-icon md__anchor--level-2" aria-hidden="true"><use xlink:href="#link"/></svg> i</a></h2>
-<h3 id="u"><a class="md__anchor" href="#u"><svg version="1.1" width="16" height="16" viewbox="0 0 16 16" class="octicon octicon-link md__anchor-icon md__anchor--level-3" aria-hidden="true"><use xlink:href="#link"/></svg> u</a></h3>
-<h4 id="e"><a class="md__anchor" href="#e"><svg version="1.1" width="16" height="16" viewbox="0 0 16 16" class="octicon octicon-link md__anchor-icon md__anchor--level-4" aria-hidden="true"><use xlink:href="#link"/></svg> え</a></h4>
-<h5 id="お"><a class="md__anchor" href="#お"><svg version="1.1" width="16" height="16" viewbox="0 0 16 16" class="octicon octicon-link md__anchor-icon md__anchor--level-5" aria-hidden="true"><use xlink:href="#link"/></svg> お</a></h5>
+<h1 id="a"><a class="md__anchor" href="#a"><svg version="1.1" width="16" height="16" viewbox="0 0 16 16" class="octicon octicon-link md__anchor-icon md__anchor--level-1" aria-hidden="true"><use xlink:href="#link"/></svg>a</a></h1>
+<h2 id="i"><a class="md__anchor" href="#i"><svg version="1.1" width="16" height="16" viewbox="0 0 16 16" class="octicon octicon-link md__anchor-icon md__anchor--level-2" aria-hidden="true"><use xlink:href="#link"/></svg>i</a></h2>
+<h3 id="u"><a class="md__anchor" href="#u"><svg version="1.1" width="16" height="16" viewbox="0 0 16 16" class="octicon octicon-link md__anchor-icon md__anchor--level-3" aria-hidden="true"><use xlink:href="#link"/></svg>u</a></h3>
+<h4 id="e"><a class="md__anchor" href="#e"><svg version="1.1" width="16" height="16" viewbox="0 0 16 16" class="octicon octicon-link md__anchor-icon md__anchor--level-4" aria-hidden="true"><use xlink:href="#link"/></svg>え</a></h4>
+<h5 id="お"><a class="md__anchor" href="#お"><svg version="1.1" width="16" height="16" viewbox="0 0 16 16" class="octicon octicon-link md__anchor-icon md__anchor--level-5" aria-hidden="true"><use xlink:href="#link"/></svg>お</a></h5>
 ```
 
 ## License
