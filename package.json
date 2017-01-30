@@ -1,6 +1,6 @@
 {
   "name": "magu-plugin-anchor",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Magu plugin to headline anchorify",
   "repository": "nju33/magu-plugin-anchor",
   "main": "./magu-plugin-anchor.js",
